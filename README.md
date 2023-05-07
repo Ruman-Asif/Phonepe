@@ -1,5 +1,6 @@
 # Phonepe project by Ruman Asif
 Python,sql,streamlit and plotly used for data visualization
+Data has first been cloned from the phonepe repository provided to us using command prompt git clone command
 Nested json files are stored classified according to quarter, year, states, country and transaction or user
 The data is also divided into data fro transactions, data for hover over the map and for top transactions and users.
 Python pulls the data from these nested json files by using normalize function.
